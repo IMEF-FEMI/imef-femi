@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Femi Bolaji
 #### Mobile App Developer (Native Android | Flutter)
-![Mobile App Developer (Native Android | Flutter)](https://raw.githubusercontent.com/IMEF-FEMI/imef-femi/main/Mobile_application.png)
+![Mobile App Developer (Native Android | Flutter)](https://raw.githubusercontent.com/IMEF-FEMI/imef-femi/main/Mobile%20application.png)
 
 Software developer with 6+ years of overall software development experience with focus on mobile application development. Proficient with the use of Flutter and native android SDK, have experience using CI / CD platforms, deploying apps to the play store, creating and consuming REST and GraphQL endpoints, designing highly scalable and testable code that conforms to the Model View ViewModel (MVVM)Architecture or the Clean Architecture. Most of all, love to build apps that are aesthetically pleasing to the eye
 
