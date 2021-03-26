@@ -1,12 +1,10 @@
-### Hi there 👋, Femi Bolaji
+### Hi there 👋, I'm Femi Bolaji
 #### Mobile App Developer (Native Android | Flutter)
-![Mobile App Developer (Native Android | Flutter)](https://raw.githubusercontent.com/IMEF-FEMI/imef-femi/main/banner.png)
+![Mobile App Developer (Native Android | Flutter)](https://raw.githubusercontent.com/IMEF-FEMI/imef-femi/main/Mobile_application.png)
 
-software developer with 6+ years of overall experience building software for both web and mobile platforms with more focus on mobile application development. Love to build scalable and structurally elegant softwares that solve real-world problems.
+Software developer with 6+ years of overall software development experience with focus on mobile application development. Proficient with the use of Flutter and native android SDK, have experience using CI / CD platforms, deploying apps to the play store, creating and consuming REST and GraphQL endpoints, designing highly scalable and testable code that conforms to the Model View ViewModel (MVVM)Architecture or the Clean Architecture. Most of all, love to build apps that are aesthetically pleasing to the eye
 
 Tech used: Flutter, Native Android (Kotlin)
-
-Tech worked with: React, NodeJs, Django, MongoDB, PostgreSQL 
 
 - 🔭 I’m currently working on Eleasarr.com.ng 
 - 📫 How to reach me: bolajifemi28@gmail.com 
