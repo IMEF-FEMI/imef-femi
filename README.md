@@ -1,19 +1,33 @@
-### Hi there 👋, I'm Femi Bolaji
-#### Mobile App Developer (Native Android | Flutter)
-![Mobile App Developer (Native Android | Flutter)](https://raw.githubusercontent.com/IMEF-FEMI/imef-femi/main/Mobile%20application.png)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bolaji+Femi.;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/bolajifemi28/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/dev_femi" title="Twitter Page"><img width="24" src="./images/twitter.png"> Twitter</a></code>
+  <code><a href="https://medium.com/@devfemi" title="Stack Overflow Profile"><img width="22" src="./images/medium.svg"> Stack Overflow</a></code>
+  <code><a href="https://devfemi.hashnode.dev/" title="Hashnode Profile"><img width="22" src="./images/hashnode.jpeg"> Hashnode</a></code>
+</h5>
+<br>
+<p align="center">
+software developer with 4+ years of overall experience building software for both web and mobile platforms with more focus on frontend technologies and Blockchain technologies. Love to build scalable and structurally elegant software that solves real-life challenges.
+  <br>
+  <br>
+  🔬 I'm Currently working at <a href="https://elesaro.com" title="Elesaro">Elesaro</a>
 
-Software developer with 6+ years of overall software development experience with focus on mobile application development. Proficient with the use of Flutter and native android SDK, have experience using CI / CD platforms, deploying apps to the play store, creating and consuming REST and GraphQL endpoints, designing highly scalable and testable code that conforms to the Model View ViewModel (MVVM)Architecture or the Clean Architecture. Most of all, love to build apps that are aesthetically pleasing to the eye
 
-Tech used: Flutter, Native Android (Kotlin)
+  <br>
+  💻 Love to code and a part-time Gamer 🎮
+  <br>
+  📚 currently learning native android development
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/imef-femi/imef-femi/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: bolajifemi28@gmail.com">bolajifemi28@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on Eleasarr.com.ng 
-- 📫 How to reach me: bolajifemi28@gmail.com 
-- 😄 Pronouns: He / Him 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imef-femi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dev_femi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bolajifemi28/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devfemi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devfemi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dev_femi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20332317/imef)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCqf4ay9ShEZZRC2-YSonQXg)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imef-femi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imef-femi&show_icons=true&count_private=true)  
-
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
