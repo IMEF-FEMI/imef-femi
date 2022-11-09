@@ -61,14 +61,17 @@ software Engineer with over 5 years of overall experience building software on w
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" https://github.com/IMEF-FEMI/solana_p2p_nft_lending" title="solana_p2p_nft_lending"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=solana_p2p_nft_lending&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/IMEF-FEMI/Today-In-History-Clean-Architechture-TDD-App" title="Today In History Flutter App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=Today-In-History-Clean-Architechture-TDD-App&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/IMEF-FEMI/no-loss-lottery-solana" title="No loss Lottery on Solana"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=no-loss-lottery-solana&theme=react&border_color=61dafb&border_radius=10"></a>
+  
+  
+  <a align="right" href="https://github.com/IMEF-FEMI/solana_asset_rebalancer" title="Portfolio rebalancing program on solana chain"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=solana_asset_rebalancer&theme=react&border_color=61dafb&border_radius=10"></a>
+
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/IMEF-FEMI/FollowStack" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=FollowStack&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/IMEF-FEMI/React-Paypal-Checkout" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=React-Paypal-Checkout&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/IMEF-FEMI/solana_p2p_nft_lending" title="P2P NFT/Token Lending on Solana "><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=solana_p2p_nft_lending&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  
 </div>
 <br/><br/><br/><br/><br/><br/>
 
