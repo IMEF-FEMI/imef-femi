@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-software Engineer with over 5 years of overall experience building software on web and mobile platforms currently more focused Blockchain technologies 🦀. Love to build scalable and structurally elegant software that solves real-life challenges.
+software Engineer with over 5 years of overall experience building software on web and mobile platforms currently more focused Blockchain technologies 🦀. 
   <br>
   <br>
   🔬 I'm Currently working at <a href="https://elesaro.com" title="Elesaro">Elesaro</a>
