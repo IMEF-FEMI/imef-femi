@@ -15,17 +15,7 @@
 software Engineer with over 5 years of overall experience building software on web and mobile platforms currently more focused Blockchain technologies 🦀. 
   <br>
   <br>
-  🔬 I'm Currently working at <a href="https://elesaro.com" title="Elesaro">Elesaro</a>
 
-
-  <br>
-  💻 Active coder and a part-time Gamer 🎮
-  <br>
-  📚 currently learning native android development
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/imef-femi/imef-femi/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: bolajifemi28@gmail.com">bolajifemi28@gmail.com</a>
 </p>
 
 <hr>
