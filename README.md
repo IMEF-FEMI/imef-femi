@@ -26,4 +26,11 @@ I'm a Smart contract Engineer with strong passion for blockchain and decentraliz
 
 ---
 
-![Femi Bolaji's Github Stats](https://github-readme-stats.vercel.app/api?username=imef-femi&count_private=true&show_icons=true&theme=radical&hide=stars)
+ <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=imef-femi&theme=react&border=61dafb&hide_border=true" alt="imef-femi" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=imef-femi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
