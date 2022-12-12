@@ -19,7 +19,7 @@
 <code><img height="20" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"></code>
 <code><img height="20" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"></code>
 </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 I'm a Smart contract Engineer with strong passion for blockchain and decentralization. I've done prior work in Mobile and fullstack development. I love to learn new stuff and make friends in unusual places 😁
