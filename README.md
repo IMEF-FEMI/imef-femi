@@ -12,7 +12,7 @@
 
 **languages and tools:**
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/242px-Rust_programming_language_black_logo.svg.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1m14uij7G2gcw7mzWVmrrt338_2c1MomMgw&usqp=CAU"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg"></code>
 <code><img height="20" src="https://s3.coinmarketcap.com/static-gravity/image/b7538f0f3725424fac71d82c60666f18.jpg"></code>
@@ -22,7 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-I'm a Smart contract Engineer with strong passion for blockchain and decentralization. I've done work in Mobile and fullstack development. I love to learn new stuff and make friends in unusual places 😁
+I'm a Smart contract Engineer with strong passion for blockchain and decentralization. I've done prior work in Mobile and fullstack development. I love to learn new stuff and make friends in unusual places 😁
 
 ---
 
