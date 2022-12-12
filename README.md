@@ -1,73 +1,29 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bolaji+Femi.;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/bolajifemi28/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/dev_femi" title="Twitter Page"><img width="24" src="./images/twitter.png"> Twitter</a></code>
-  <code><a href="https://medium.com/@devfemi" title="Medium Profile"><img width="22" src="./images/medium.png"> Medium</a></code>
-  <code><a href="https://devfemi.hashnode.dev/" title="Hashnode Profile"><img width="22" src="./images/hashnode.jpeg"> Hashnode</a></code>
-</h5>
-<br>
-<p align="center">
-software Engineer with over 5 years of overall experience building software on web and mobile platforms currently more focused Blockchain technologies 🦀. 
-  <br>
-  <br>
+<h1> Hi, I'm Femi <img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="29"></h1>
 
-</p>
+[![Linkedin: bolajifemi28](https://img.shields.io/badge/-bolajifemi28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolajifemi28/)](https://www.linkedin.com/in/bolajifemi28/)
+[![Twitter Badge](https://img.shields.io/badge/-0x_devv-28a0ed?style=flat-square&labelColor=28a0ed&logo=twitter&logoColor=white&link=https://www.twitter.com/0x_devv)](https://www.twitter.com/0x_devv)
+[![Medium Badge](https://img.shields.io/badge/-dev_femi-f2f2f2?style=flat-square&labelColor=f2f2f2&logo=medium&logoColor=black&link=https://www.medium.com/dev_femi)](https://medium.com/@devfemi)
+[![GitHub IMEF-FEMI](https://img.shields.io/github/followers/imef-femi?label=follow&style=social)](https://github.com/imef-femi)
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="VSCode" height="25" src="./images/visualstudio.png"></code>
-  <code><img title="Flutter" height="25" src="./images/flutter.png"></code>
-  <code><img title="Android" height="25" src="./images/android.svg"></code>
-  <code><img title="Redux" height="25" src="./images/redux.svg"></code>
-  <code><img title="React" height="25" src="./images/react-original.svg"></code>
-   <code><img title="Chrome" height="25" src="./images/chrome.svg"></code>
-    <code><img title="Ethereum" height="25" src="./images/ethereum.png"></code>
-    <code><img title="Solidity" height="25" src="./images/solidity.png"></code>
- <code><img title="Javascript" height="25" src="./images/javascript.svg"></code>
-</p>
-<hr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=imef-femi&theme=react&border=61dafb&hide_border=true" alt="imef-femi" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=imef-femi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
- 
-</p>
+<p><em>Engineering at <a href="https://dacade.org">Dacade</a></br>Grad at <a href="https://near.org/">Encode club</a></br>Hangout at <a href="https://encode.club/">Encode Club</a>, <a href="https://discord.com/invite/ym8BtcWUY2/">Secureum</a>, <a href="https://discordapp.com/invite/pquxPsq">Solana</a>
+</em></p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-    <a align="left" href="https://github.com/IMEF-FEMI/no-loss-lottery-solana" title="No loss Lottery on Solana"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=no-loss-lottery-solana&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-  
-  <a align="right" href="https://github.com/IMEF-FEMI/solana_asset_rebalancer" title="Portfolio rebalancing program on solana chain"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=solana_asset_rebalancer&theme=react&border_color=61dafb&border_radius=10"></a>
+![alt text](https://github.com/BenKurrek/BenKurrek/blob/main/assets/gojo_banner.jpg?raw=true)
 
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/IMEF-FEMI/solana_p2p_nft_lending" title="P2P NFT/Token Lending on Solana "><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=imef-femi&repo=solana_p2p_nft_lending&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-</div>
-<br/><br/><br/><br/><br/><br/>
+**languages and tools:**
 
-<h4 align="center">
-  <a href="https://github.com/imef-femi?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/242px-Rust_programming_language_black_logo.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg"></code>
+<code><img height="20" src="https://s3.coinmarketcap.com/static-gravity/image/b7538f0f3725424fac71d82c60666f18.jpg"></code>
+<code><img height="20" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"></code>
+<code><img height="20" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"></code>
+</code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+I'm a Smart contract Engineer with strong passion for blockchain and decentralization. I've done work in Mobile and fullstack development. I love to learn new stuff and make friends in unusual places 😁
 
+---
 
+![Femi Bolaji's Github Stats](https://github-readme-stats.vercel.app/api?username=imef-femi&count_private=true&show_icons=true&theme=radical&hide=stars)
