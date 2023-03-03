@@ -2,7 +2,7 @@
 
 [![Linkedin: bolajifemi28](https://img.shields.io/badge/-bolajifemi28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolajifemi28/)](https://www.linkedin.com/in/bolajifemi28/)
 [![Twitter Badge](https://img.shields.io/badge/-femi_0x-28a0ed?style=flat-square&labelColor=28a0ed&logo=twitter&logoColor=white&link=https://www.twitter.com/femi_0x)](https://www.twitter.com/femi_0x)
-[![Medium Badge](https://img.shields.io/badge/-dev_femi-f2f2f2?style=flat-square&labelColor=f2f2f2&logo=medium&logoColor=black&link=https://www.medium.com/femi_0x)](https://medium.com/@femi_0x)
+[![Medium Badge](https://img.shields.io/badge/-femi_0x-f2f2f2?style=flat-square&labelColor=f2f2f2&logo=medium&logoColor=black&link=https://www.medium.com/femi_0x)](https://medium.com/@femi_0x)
 [![GitHub IMEF-FEMI](https://img.shields.io/github/followers/imef-femi?label=follow&style=social)](https://github.com/imef-femi)
 
 <p><em>Engineering at <a href="https://dacade.org">Dacade</a></br>Grad at <a href="https://near.org/">Encode club</a></br>Hangout at <a href="https://encode.club/">Encode Club</a>, <a href="https://discord.com/invite/ym8BtcWUY2/">Secureum</a>, <a href="https://discordapp.com/invite/pquxPsq">Solana</a>
