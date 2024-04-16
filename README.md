@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-femi_0x-f2f2f2?style=flat-square&labelColor=f2f2f2&logo=medium&logoColor=black&link=https://www.medium.com/femi_0x)](https://medium.com/@femi_0x)
 [![GitHub IMEF-FEMI](https://img.shields.io/github/followers/imef-femi?label=follow&style=social)](https://github.com/imef-femi)
 
-<p><em>DevRel at <a href="[https://dacade.org](https://hxro.com/)">HXRO</a></br>Grad at <a href="https://near.org/">Encode club</a></br>Hangout at <a href="https://encode.club/">Encode Club</a>, <a href="https://discord.com/invite/ym8BtcWUY2/">Secureum</a>, <a href="https://discordapp.com/invite/pquxPsq">Solana</a>
+<p><em>Devrel at <a href="https://hxro.com">HXRO</a></br>Grad at <a href="https://encode.club/">Encode club</a></br>Hangout at <a href="https://encode.club/">Encode Club</a>, <a href="https://discord.com/invite/ym8BtcWUY2/">Secureum</a>, <a href="https://discordapp.com/invite/pquxPsq">Solana</a>
 </em></p>
 
 ![alt text](https://github.com/BenKurrek/BenKurrek/blob/main/assets/gojo_banner.jpg?raw=true)
@@ -22,7 +22,7 @@
 <code><img height="20" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-I'm a Smart contract Engineer with strong passion for blockchain and decentralization. I've done prior work in Mobile and fullstack development. I love to learn new stuff and make friends in unusual places 😁
+I'm a Smart contract Engineer with strong passion for blockchain and decentralization. currently forking the Defi space in-depth
 
 ---
 
