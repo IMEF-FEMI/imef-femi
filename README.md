@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-femi_0x-f2f2f2?style=flat-square&labelColor=f2f2f2&logo=medium&logoColor=black&link=https://www.medium.com/femi_0x)](https://medium.com/@femi_0x)
 [![GitHub IMEF-FEMI](https://img.shields.io/github/followers/imef-femi?label=follow&style=social)](https://github.com/imef-femi)
 
-<p><em>Engineering at <a href="https://dacade.org">Dacade</a></br>Grad at <a href="https://near.org/">Encode club</a></br>Hangout at <a href="https://encode.club/">Encode Club</a>, <a href="https://discord.com/invite/ym8BtcWUY2/">Secureum</a>, <a href="https://discordapp.com/invite/pquxPsq">Solana</a>
+<p><em>DevRel at <a href="[https://dacade.org](https://hxro.com/)">HXRO</a></br>Grad at <a href="https://near.org/">Encode club</a></br>Hangout at <a href="https://encode.club/">Encode Club</a>, <a href="https://discord.com/invite/ym8BtcWUY2/">Secureum</a>, <a href="https://discordapp.com/invite/pquxPsq">Solana</a>
 </em></p>
 
 ![alt text](https://github.com/BenKurrek/BenKurrek/blob/main/assets/gojo_banner.jpg?raw=true)
