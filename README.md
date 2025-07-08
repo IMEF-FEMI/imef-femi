@@ -1,6 +1,6 @@
 <h1> Hi, I'm Femi <img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="29"></h1>
 
-[![Linkedin: bolajifemi28](https://img.shields.io/badge/-bolajifemi28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolajifemi28/)](https://www.linkedin.com/in/bolajifemi28/)
+
 [![Twitter Badge](https://img.shields.io/badge/-femi_0x-28a0ed?style=flat-square&labelColor=28a0ed&logo=twitter&logoColor=white&link=https://www.twitter.com/femi_0x)](https://www.twitter.com/femi_0x)
 [![GitHub IMEF-FEMI](https://img.shields.io/github/followers/imef-femi?label=follow&style=social)](https://github.com/imef-femi)
 
