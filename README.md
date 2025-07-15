@@ -27,7 +27,7 @@ struct Femi {
     current_focus: vec!["DeFi", "Solana", "Trading Infrastructure"],
     building: "Nix Protocol - Orderbook-based lending on Solana",
     learning: "Advanced Solana runtime optimizations",
-    fun_fact: "I eat glass for fun 🦀 "
+    fun_fact: "I chew glass for fun 🦀 "
 }
 ```
 
