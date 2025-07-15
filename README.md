@@ -10,6 +10,7 @@
 <p align="center">
  <em>
   Ex. Protocol Lead at Satoshi Perps (now <a href="https://volta.markets/">Volta Markets</a>) <br/>
+  Prev CTO at NLX <a href="https://www.nlx.trade">NLX Protocol (aqc.)</a> <br/>
   Building <a href="https://github.com/IMEF-FEMI/nix_protocol">Nix Protocol</a> - A fully on-chain lending orderbook on Solana<br/>
   Active Contributor at <a href="https://twitter.com/SuperteamDAO">Superteam DAO</a>
 </em>
