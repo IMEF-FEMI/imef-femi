@@ -148,7 +148,3 @@ I'm always interested in working on innovative DeFi protocols, especially:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imef-femi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p align="center">
-  <i>⚡ "The best time to build on Solana was yesterday. The second best time is now." ⚡</i>
-</p>
