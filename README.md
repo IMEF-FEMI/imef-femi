@@ -72,7 +72,6 @@ struct Femi {
       <p align="center">
         <a href="https://volta.markets/">
           <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-          <img src="https://img.shields.io/badge/TVL-$10M+-00D632?style=for-the-badge" alt="TVL">
         </a>
       </p>
       <p align="center">Led development of perpetual futures DEX. Architected orderbook, margin engine, and liquidation systems.</p>
