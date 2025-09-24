@@ -9,9 +9,8 @@
 
 <p align="center">
  <em>
-  Ex. Protocol Lead at Satoshi Perps (now <a href="https://volta.markets/">Volta Markets</a>) <br/>
-  Prev CTO at NLX <a href="https://www.nlx.trade">NLX Protocol (aqc.)</a> <br/>
-  Building <a href="https://github.com/IMEF-FEMI/nix_protocol">Nix Protocol</a> - A fully on-chain lending orderbook on Solana<br/>
+  Lead Engineer at <a href="https://www.nlx.trade">NLX Protocol )</a> <br/>
+  Building <a href="https://github.com/IMEF-FEMI/numa_protocol">Numa Protocol</a> - A fully on-chain lending orderbook on Solana<br/>
   Active Contributor at <a href="https://twitter.com/SuperteamDAO">Superteam DAO</a>
 </em>
 </p>
@@ -66,15 +65,6 @@ struct Femi {
         </a>
       </p>
       <p align="center">Developer tooling for atomic swaps on Hxro's Parimutuel Protocol. Enables seamless integration with any SPL token.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Satoshi Perps</h3>
-      <p align="center">
-        <a href="https://volta.markets/">
-          <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
-        </a>
-      </p>
-      <p align="center">Led development of perpetual futures DEX. Architected orderbook, margin engine, and liquidation systems.</p>
     </td>
   </tr>
 </table>
