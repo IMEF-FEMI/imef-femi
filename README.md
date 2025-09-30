@@ -24,7 +24,7 @@ Experienced DeFi engineer with 5+ years in software development, specializing in
 ```rust
 struct Femi {
     current_focus: vec!["DeFi", "Solana", "Trading Infrastructure"],
-    building: "Nix Protocol - Orderbook-based lending on Solana",
+    building: "Numa Protocol - Orderbook-based lending on Solana",
     learning: "Advanced Solana runtime optimizations",
     fun_fact: "I chew glass for fun 🦀 "
 }
@@ -34,16 +34,6 @@ struct Femi {
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Nix Protocol</h3>
-      <p align="center">
-        <a href="https://github.com/IMEF-FEMI/nix_protocol">
-          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-          <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
-        </a>
-      </p>
-      <p align="center">Decentralized lending protocol combining orderbook mechanics with capital-efficient lending. Features intelligent order routing and Solana runtime optimizations.</p>
-    </td>
     <td width="50%">
       <h3 align="center">Asset Rebalancer</h3>
       <p align="center">
