@@ -1,5 +1,6 @@
+---
 
-<h1 align="center"> Hi, I'm Femi <img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="29"></h1>
+<h1 align="center">Hi, I'm Femi <img src="https://c.tenor.com/fOjhwb3eEqIAAAAi/quack-duck.gif" width="29"></h1>
 
 <p align="center">
   <a href="https://twitter.com/femi_0x"><img src="https://img.shields.io/badge/-@femi__0x-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="Twitter"></a>
@@ -7,118 +8,107 @@
   <a href="https://linkedin.com/in/femi_0x"><img src="https://img.shields.io/badge/-femi_0x-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+---
+
 <p align="center">
  <em>
-  Lead Engineer at <a href="https://www.nlx.trade">NLX Protocol )</a> <br/>
-  Building <a href="https://github.com/IMEF-FEMI/numa_protocol">Numa Protocol</a> - A fully on-chain lending orderbook on Solana<br/>
-  Active Contributor at <a href="https://twitter.com/SuperteamDAO">Superteam DAO</a>
+  Protocol Engineer & Builder<br/>
+  Currently building <a href="https://github.com/IMEF-FEMI/numa_protocol">Numa Protocol</a> — a hybrid lending orderbook on Solana<br/>
+  Contributor to <a href="https://github.com/mrgnlabs/marginfi-v2">Marginfi v2</a> and core engineer behind <a href="https://www.satoshiapp.xyz">Satoshi Perps (formerly NLX)</a>
 </em>
 </p>
 
-![alt text](https://github.com/BenKurrek/BenKurrek/blob/main/assets/gojo_banner.jpg?raw=true)
+![banner](https://github.com/BenKurrek/BenKurrek/blob/main/assets/gojo_banner.jpg?raw=true)
 
-## 🎯 About Me
+---
 
-Experienced DeFi engineer with 5+ years in software development, specializing in high-performance blockchain systems. Expert in designing and implementing complex financial protocols with a focus on low-latency, scalable architectures. Proven track record leading teams to build production systems handling substantial TVL. Deep expertise in Rust, distributed systems, and exchange infrastructure.
+## 🧠 About Me
+
+I’m a blockchain engineer focused on **DeFi protocol design, runtime optimization, and on-chain trading systems**.
+My work spans **Solana**, and **EVM** based chains, where I’ve built lending engines, perpetual DEXs, and developer tooling.
+
+I care about designing systems that are **capital-efficient, modular, and performant** — while staying true to open-source principles.
 
 ```rust
 struct Femi {
-    current_focus: vec!["DeFi", "Solana", "Trading Infrastructure"],
-    building: "Numa Protocol - Orderbook-based lending on Solana",
-    learning: "Advanced Solana runtime optimizations",
-    fun_fact: "I chew glass for fun 🦀 "
+    focus: vec!["DeFi", "Orderbooks", "Lending", "Solana"],
+    building: "Numa Protocol",
+    contributing: "Marginfi v2",
+    fun_fact: "I chew glass for fun 🦀"
 }
 ```
 
-## 🚀 Featured Projects
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Asset Rebalancer</h3>
-      <p align="center">
-        <a href="https://github.com/IMEF-FEMI/asset_rebalancer_solana">
-          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-          <img src="https://img.shields.io/badge/Anchor-7B3FF2?style=for-the-badge" alt="Anchor">
-        </a>
-      </p>
-      <p align="center">High-performance portfolio rebalancing program with AMM integration. Implements volatility harvesting strategies with sub-second execution.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">PariSwap SDK</h3>
-      <p align="center">
-        <a href="https://www.npmjs.com/package/pariswap">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-          <img src="https://img.shields.io/npm/v/pariswap?style=for-the-badge" alt="NPM">
-        </a>
-      </p>
-      <p align="center">Developer tooling for atomic swaps on Hxro's Parimutuel Protocol. Enables seamless integration with any SPL token.</p>
-    </td>
-  </tr>
-</table>
+## 🚀 Notable Work
+
+| Project                                                                         | Description                                                                                                                                            | Stack                             |
+| :------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------- |
+| 🧩 **[Numa Protocol](https://gist.github.com/IMEF-FEMI/057ff28d380d4b530fcddf91740683c4)**              | Hybrid lending protocol combining orderbook and pool-based systems. Designed a deterministic account model and a high-performance matching engine.     | `Rust · Native Solana · Solana`          |
+| ⚙️ **[Marginfi v2](https://github.com/mrgnlabs/marginfi-v2)**                   | Contributed PDA-based account architecture for deterministic addressing and auto-indexing. Built safety mechanisms like time-limited emergency pauses. | `Rust · Anchor · Solana`          |
+| 📈 **[Satoshi Perps (Prev NLX)](https://www.satoshiapp.xyz)**                   | Led protocol development for a perpetuals DEX. Implemented vaults, liquidation, governance, and keeper systems for real-time execution.                | `Solidity · TypeScript · Hardhat` |
+| 🔁 **[Asset Rebalancer](https://github.com/IMEF-FEMI/asset_rebalancer_solana)** | Solana on-chain rebalancer using AMM mechanics to maintain target portfolio ratios.                                                                    | `Rust · Anchor · Solana`          |
+| 💡 **[PariSwap SDK](https://github.com/IMEF-FEMI/pariswap)**                    | TypeScript SDK enabling atomic swaps on Hxro’s Parimutuel Protocol. Simplifies integration with SPL tokens.                                            | `TypeScript · Node.js`            |
+
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Anchor-7B3FF2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
-  <img src="https://img.shields.io/badge/Anchor-7B3FF2?style=for-the-badge" alt="Anchor">
-  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge" alt="Tokio">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+---
 
-### 💪 Core Competencies
-- **DeFi Protocols**: AMMs, Lending Markets, Orderbooks, Perpetual Futures
-- **Performance**: Low-latency systems, Runtime optimization, High-throughput architectures
-- **Security**: Smart contract auditing, Risk management, Safe upgrade patterns
-- **Leadership**: Team management, Technical architecture, Cross-functional collaboration
+### ⚡ Areas of Strength
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imef-femi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+* **Protocol Architecture:** Lending, Perpetuals, and Orderbook systems
+* **Performance Engineering:** Runtime and compute optimization on Solana
+* **Security:** Access control, safe upgrade patterns, and risk isolation
+* **Tooling:** SDKs, indexers, and subgraphs for protocol integrations
 
 
-## 🌱 Currently Learning
+## 🌱 Current Focus
 
-- Zero-knowledge proofs for private DeFi
-- Cross-chain messaging protocols
-- MEV protection strategies
+* Refining hybrid lending logic on **Numa Protocol**
+* Building **deterministic account systems** and on-chain risk controls
+* Exploring **MEV-aware execution** and **cross-chain liquidity**
 
-## 🤝 Open for Collaboration
+---
 
-I'm always interested in working on innovative DeFi protocols, especially:
-- Novel trading mechanisms (RFQ, intent-based, hybrid orderbooks)
-- Cross-chain infrastructure
-- Performance optimization challenges
-- Open-source tooling for developers
+## 🤝 Collaboration Interests
 
-## 📫 Let's Connect
+Excited to work on:
+
+* Advanced DeFi primitives (hybrid orderbooks, lending, RFQ)
+* Cross-chain messaging and yield aggregation
+* Developer infrastructure for Solana or Rust ecosystems
+
+---
+
+## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://twitter.com/femi_0x"><img src="https://img.shields.io/badge/Twitter-@femi__0x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:bolajifemi28@gmail.com"><img src="https://img.shields.io/badge/Email-bolajifemi28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/bolajifemi28"><img src="https://img.shields.io/badge/LinkedIn-bolajifemi28-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/femi_0x"><img src="https://img.shields.io/badge/Twitter-@femi__0x-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:bolajifemi28@gmail.com"><img src="https://img.shields.io/badge/Email-bolajifemi28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/femi_0x"><img src="https://img.shields.io/badge/LinkedIn-femi__0x-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imef-femi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=imef-femi&label=Profile%20views&color=0e75b6&style=flat">
 </p>
+
+
