@@ -40,7 +40,6 @@ struct Femi {
 
 | Project | Description |
 | :------ | :---------- |
-| **[Marginfi v2](https://github.com/mrgnlabs/marginfi-v2)** | PDA-based account architecture, deterministic addressing, and safety mechanisms |
 | **[Numa Protocol](https://github.com/IMEF-FEMI/numa_protocol)** | Hybrid lending protocol with orderbook and pool-based systems |
 | **[Satoshi Perps (Prev NLX)](https://www.satoshiapp.xyz)** | Led protocol development for perpetuals DEX — vaults, liquidation, governance |
 | **[Asset Rebalancer](https://github.com/IMEF-FEMI/asset_rebalancer_solana)** | On-chain rebalancer using AMM mechanics |
