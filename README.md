@@ -12,7 +12,6 @@
 
 <p align="center">
  <em>
-  Program Engineer at <a href="https://github.com/mrgnlabs/">Project0 (formerly Marginfi)</a><br/>
   Building <a href="https://github.com/IMEF-FEMI/numa_protocol">Numa Protocol</a> — a hybrid lending orderbook on Solana<br/>
   Prev: Core engineer at <a href="https://www.satoshiapp.xyz">Satoshi Perps (NLX)</a>
 </em>
